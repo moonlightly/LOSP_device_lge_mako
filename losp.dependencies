@@ -1,8 +1,8 @@
 [
  {
-   "repository":  "LOSP/proprietary_vendor_lge",
+   "repository":  "moonlightly/LOSP_vendor_lge",
    "target_path": "vendor/lge",
-   "branch":      "jb4.3"
+   "branch":      "jb43"
  },
  {
    "repository":  "LOSP/proprietary_vendor_qcom",
@@ -10,13 +10,13 @@
    "branch":      "jb4.3"
  },
  {
-   "repository":  "LOSP/proprietary_vendor_broadcom",
+   "repository":  "moonlightly/LOSP_vendor_broadcom",
    "target_path": "vendor/broadcom",
-   "branch":      "jb4.3"
+   "branch":      "jb43"
  },
  {
-   "repository":  "LOSP/kernel_lge_mako",
+   "repository":  "moonlightly/LOSP_kernel_lge_mako",
    "target_path": "kernel/lge/mako",
-   "branch":      "jb4.3"
+   "branch":      "jb43"
  }
 ]
